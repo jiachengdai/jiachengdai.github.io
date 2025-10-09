@@ -12,7 +12,8 @@ redirect_from:
 
 Educational Background
 ======
-- **2022.09 – 2026.06 (Expected)**  ,**B.S. in Software Engineering**, [Donghua University (DHU)](https://dhu.edu.cn), Shanghai, China  
+- **2022.09 – 2026.06 (Expected)**  ,[Donghua University (DHU)](https://dhu.edu.cn), Shanghai, China  
+  **B.S. in Software Engineering**
   **GPA:** 4.37 / 5.0 | **Major Rank:** 2 / 97  
   **Supervisor:** Prof. **Liang Zhang**  
 
@@ -24,9 +25,10 @@ Educational Background
   **Core Courses:**  
   - Operating System (96) ,Computer Networks (93)  ,Data Structure (94)  ,Computer Organization Principle (97)  ,Database Principle (95)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Research Interests
+======
+🔬 I am currently focusing on **optimization of large model inference serving**, with particular interest in **edge resource management** and **task scheduling** to achieve **low-latency and high-throughput inference**. 
+
 
 
 
