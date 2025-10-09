@@ -8,7 +8,7 @@ redirect_from:
 ---
 About Me
 ======
-Hi! I’m Daicheng Dai, a **Software Engineering** undergraduate at [School of Computer Science and Technology, **Donghua University**](https://cst.dhu.edu.cn). I’ve been admitted to [School of Artificial Intelligence, **Wuhan University**](https://sai.whu.edu.cn) for graduate study in **Intelligent Science and Technology** through recommendation without examination.
+Hi! I’m Jiacheng Dai, a **Software Engineering** undergraduate at [School of Computer Science and Technology, **Donghua University**](https://cst.dhu.edu.cn). I’ve been admitted to [School of Artificial Intelligence, **Wuhan University**](https://sai.whu.edu.cn) for graduate study in **Intelligent Science and Technology** through recommendation without examination.
 
 
 Getting started
