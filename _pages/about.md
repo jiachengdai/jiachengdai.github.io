@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Introduction"
+author_profile: true
+redirect_from: 
+  - /
+  - /page-archive.html
+---
 About Me
 ======
 Hi! I’m Daicheng Dai, a **Software Engineering** undergraduate at [School of Computer Science and Technology, **Donghua University**](https://cst.dhu.edu.cn). I’ve been admitted to [School of Artificial Intelligence, **Wuhan University**](https://sai.whu.edu.cn) for graduate study in **Intelligent Science and Technology** through recommendation without examination.
