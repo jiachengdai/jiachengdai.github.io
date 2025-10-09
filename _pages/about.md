@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 --- 
 
-======
 👋Hi! I’m Jiacheng Dai, a **Software Engineering** undergraduate at [School of Computer Science and Technology, **Donghua University**](https://cst.dhu.edu.cn). 🎓I’ve been admitted to [School of Artificial Intelligence, **Wuhan University**](https://sai.whu.edu.cn) for graduate study in **Intelligent Science and Technology** through recommendation without examination.
 
 
