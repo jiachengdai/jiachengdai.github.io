@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jiacheng Dai"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "An undergraduate student in Software engineering at Donghua University"
+  location         : "Shanghai, China"
+  employer         : "Donghua University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "221310411@mail.dhu.edu.cn" 
 
   # Academic websites
   academia         : # URL
