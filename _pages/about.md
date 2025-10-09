@@ -3,8 +3,8 @@ permalink: /
 title: "Introduction"
 author_profile: true
 redirect_from: 
-  - /
-  - /page-archive.html
+  - /about
+  - /about.html
 ---
 About Me
 ======
