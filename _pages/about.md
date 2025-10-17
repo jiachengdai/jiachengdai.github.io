@@ -27,7 +27,7 @@ Educational Background
 
 Research Interests
 ======
-🔬 I am currently focusing on **optimization of large model inference serving**, with particular interest in **edge resource management** and **task scheduling** to achieve **low-latency and high-throughput inference**. 
+🔬 I am currently focusing on optimization of large model inference serving, with particular interest in edge resource management and task scheduling to achieve low-latency and high-throughput inference. In the future, I plan to conduct research on domain-specific large models and their applications in vertical fields.
 
 
 
