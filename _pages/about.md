@@ -14,7 +14,7 @@ Educational Background
 ======
 - **2022.09 – 2026.06 (Expected)**  ,[Donghua University (DHU)](https://dhu.edu.cn), Shanghai, China  
   **B.S. in Software Engineering**
-  **GPA:** 4.37 / 5.0 | **Major Rank:** 2 / 97  
+  **GPA:** 4.37 / 5.0 | **Major Rank:** 1 / 97  
   **Supervisor:** Lect. **Liang Zhang**  
 
   **Honors & Awards:**  
