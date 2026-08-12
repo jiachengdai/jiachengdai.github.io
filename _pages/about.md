@@ -21,6 +21,6 @@ Educational Background
   **Interests:** LLM Inference Serving, Cloud-edge Intelligence, Parallel and Distributed Computing  
   **Honors & Awards:**
   - ✨ Outstanding Graduate of Shanghai (Jun 2026)
-  - 🏆 National Scholarship (Dec 2024)  
+  - 🏆 National Scholarship (Dec 2024, Dec 2025)  
   - 🌟 Sangma Scholarship (Nov 2023)  
-  - 🎖️ Outstanding Student of Donghua University (Dec 2023, Dec 2024)  
+  - 🎖️ Outstanding Student of Donghua University (Dec 2023, Dec 2024, Dec 2025)  
