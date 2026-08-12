@@ -11,12 +11,12 @@ redirect_from:
 
 Educational Background
 ======
-- **2026.09 – Present**  ,[Wuhan University (WHU)](https://whu.edu.cn), Hubei, China  
+- **2026.09 – Present**,  School of Artificial Intelligence, Wuhan University (WHU), Hubei, China  
   **M.S. in Intelligent Science and Technology**
   
   **Interests:** LLM, NLP, Agent
   
-- **2022.09 – 2026.06**  ,[Donghua University (DHU)](https://dhu.edu.cn), Shanghai, China  
+- **2022.09 – 2026.06**,  School of Information and Intelligent Science, Donghua University (DHU), Shanghai, China  
   **B.S. in Software Engineering**
   **Supervisor:** Lect. **Liang Zhang**  
   **Honors & Awards:**
