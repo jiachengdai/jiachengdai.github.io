@@ -13,7 +13,8 @@ Educational Background
 ======
 - **2026.09 – Present**,  School of Artificial Intelligence, Wuhan University (WHU), Hubei, China  
   **M.S. in Intelligent Science and Technology**  
-  **Interests:** LLM, NLP, Agent
+  **Supervisor:** Prof. **Min Peng** and Prof. **Qianqian Xie**   
+  **Interests:** AI Congition , LLM
   
 - **2022.09 – 2026.06**,  School of Information and Intelligent Science, Donghua University (DHU), Shanghai, China  
   **B.S. in Software Engineering**  
