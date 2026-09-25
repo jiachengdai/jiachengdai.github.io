@@ -25,3 +25,4 @@ Educational Background
   - 🏆 National Scholarship (Dec 2024, Dec 2025)  
   - 🌟 Sangma Scholarship (Nov 2023)  
   - 🎖️ Outstanding Student of Donghua University (Dec 2023, Dec 2024, Dec 2025)  
+  🌞During my time at Donghua University, I initiated the DHUCourse project, which was designed for students to exchange and evaluate courses. We sincerely invite students from Donghua University to experience it.
